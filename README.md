@@ -1,8 +1,9 @@
-# PythonApp
-So this is my test to try communicate between a built website and a MySQL database on my local machine. 
-I am using Python flask modules to accomplish this and I'm adapting it from an online source.
+# OAD Data Retrieval 
+This is my simple code to enable users online to search the OAD Projects Database. 
+HTML, PHP and MySQL were used to create a front-end website with simple search parameters that link to a SQL database with the relevant project information.
 
-The main program is a Python code named 'app.py' which opens up a link to the website (html pages).
+The main file is the Retrieve.php which currently runs on my localhost but I will soon open up publicly.
+
 It is still heavily under development and I'm currently working on code more suited to the OAD needs:
     
     - Internal repository of all project related information, from application stage to details of grant, project updates,           challenges, and final report
